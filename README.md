@@ -23,7 +23,7 @@ In line with our paper, our experiments are organized into four sections. For ea
 # How to run code from the command line
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zzxhelloworld/iCONF.git
+   git clone https://github.com/ZhuoxingZhang/3NF.git
    ```
 2. Navigate to the project directory:
    ```bash
